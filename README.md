@@ -908,12 +908,12 @@ transition: 0.5s;
 ```
 ## OUTPUT:
 ## HOME PAGE:
-![alt text](<project06/softapp/static/home page.png>)
+![alt text](<home page.png>)
 ## PRODUCTS PAGE:
-![alt text](<project06/softapp/static/products page.png>)
+![alt text](<products page.png>)
 ## PEOPLE PAGE:
-![alt text](<project06/softapp/static/people page.png>)
+![alt text](<people page.png>)
 ## CONTACT PAGE:
-![alt text](<project06/softapp/static/contact page.png>)
+![alt text](<contact page.png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
