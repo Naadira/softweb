@@ -28,6 +28,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
+```
 ## index.html:
 <!DOCTYPE html>
 <html lang="en">
@@ -896,7 +897,7 @@ transition: 0.5s;
     background-color: #de463b;
     color:#ffffff;
   }
-
+```
 ## OUTPUT:
 ## HOME PAGE:
 ![alt text](<project06/softapp/static/home page.png>)
