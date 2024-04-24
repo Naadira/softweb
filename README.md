@@ -28,8 +28,8 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-```
 ## index.html:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -97,7 +97,9 @@ Publish the website in the given URL.
         </div>  
 </body>
 </html>
+```
 ## products.html:
+```
 <html>
   <head>
     <title>services</title>
@@ -215,7 +217,9 @@ margin-left: 200px;
 </footer>
 </body>
 </html>
+```
 ## people.html:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -410,7 +414,9 @@ ul li a:hover{
                 </footer>         
 </body>
 </html>
+```
 ## contact.html:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -628,7 +634,9 @@ ul li a:hover{
                     </footer>
     </body>
     </html>
+```
 ## style.css:
+```
 *{
     margin: 0px;
     padding: 0px;
